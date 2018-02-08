@@ -1,0 +1,7 @@
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\bin\Debug\File and Streams Exercise 4.exe.config
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\bin\Debug\File and Streams Exercise 4.exe
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\bin\Debug\File and Streams Exercise 4.pdb
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\obj\Debug\File and Streams Exercise 4.csprojResolveAssemblyReference.cache
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\obj\Debug\File and Streams Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\obj\Debug\File and Streams Exercise 4.exe
+C:\Users\remjamd\Documents\visual studio 2017\Projects\File and Streams Exercise 4\File and Streams Exercise 4\obj\Debug\File and Streams Exercise 4.pdb
